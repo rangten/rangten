@@ -1,37 +1,240 @@
-# 👋 Olá, eu sou o Rangel (`rangten`)
+# 👋 Olá, eu sou o Rangel (rangten)
 
-Sou um desenvolvedor especializado em engenharia de software focada em **alta performance, conversão de vendas (CRO) e SEO avançado**. Utilizo metodologias ágeis e ferramentas de ponta para construir ecossistemas comerciais digitais completos, transformando linhas de código em plataformas geradoras de faturamento e aquisição de clientes.
+## 🚀 Product Builder | Frontend Developer | AI-Assisted Development
 
----
+Sou apaixonado por tecnologia e por transformar ideias em produtos digitais.
 
-## 💎 Soluções em Destaque (Aplicações em Produção Real)
+Minha trajetória começou no **e-commerce**, onde trabalhei por mais de **8 anos** criando anúncios, vendendo em marketplaces e buscando maneiras de automatizar processos e aumentar resultados.
 
-### 📈 Projeto Vidros
-Plataforma premium desenvolvida sob medida para o mercado de vidraçaria corporativa e residencial. 
-* **SEO Programático em Larga Escala:** Arquitetura inteligente anti-duplicação de conteúdo com renderização dinâmica por bairros e regiões.
-* **Métricas do Google:** Mais de **411 páginas indexadas** organicamente no Google Search Console e **nota 100/100 em SEO** no PageSpeed Insights mobile.
-* **Resultados:** Ferramenta comercial ativa convertendo leads diretamente via CTAs multiplataforma integradas.
-* 🔗 **Acesse o site oficial:** [projetovidros.com.br](https://www.projetovidros.com.br)
+Em 2025 conheci o mundo da Inteligência Artificial e ferramentas como **Lovable**, **GitHub**, **Supabase**, **Vercel** e diversas APIs de IA.
 
-### 🚀 Fast Vidro
-Aplicações de carregamento ultra-rápido focadas na experiência do usuário e otimização extrema de código React.js com TypeScript.
-* 🔗 **Acesse o site oficial:** [fastvidro.com.br](https://www.fastvidro.com.br)
+Ao invés de apenas estudar, comecei a aprender construindo.
 
-### 🌐 Ecossistema Anúncio Fácil & DizaiApp
-Sistemas corporativos robustos baseados em consumo de APIs otimizadas e segurança de dados, isolando credenciais críticas de forma limpa e seguindo padrões rígidos de arquitetura.
+Criei minha primeira aplicação utilizando Inteligência Artificial, depois outra, depois mais outra... até chegar às plataformas que hoje estão em produção e são utilizadas diariamente por clientes.
+
+Não venho de uma faculdade de Ciência da Computação e nem de uma carreira tradicional em desenvolvimento.
+
+Sou uma pessoa curiosa, que aprende resolvendo problemas reais e acredita que a melhor forma de evoluir é colocando projetos no ar.
+
+Hoje continuo estudando todos os dias, desenvolvendo novas aplicações e aprendendo continuamente sobre desenvolvimento web, Inteligência Artificial e criação de produtos digitais.
 
 ---
 
-## 🛠️ Stack Tecnológica & Competências
+# 💡 O que gosto de fazer
 
-* **Frontend Avançado:** React.js, TypeScript, Tailwind CSS, shadcn/ui.
-* **SEO Técnico:** Programmatic SEO (SEO Programático), Geotargeting, Otimização de Web Vitals, Geração de Sitemaps estruturados.
-* **Estratégia de Negócios:** CRO (Otimização de Taxa de Conversão), Integrações Omnichannel (WhatsApp/Mídias Sociais) e Prova Social Automatizada.
-* **Boas Práticas:** Segurança de Aplicações (Gestão segura de Variáveis de Ambiente e chaves de API).
+✔ Transformar ideias em aplicações reais
+
+✔ Criar MVPs rapidamente
+
+✔ Desenvolver produtos utilizando IA como acelerador
+
+✔ Integrar APIs
+
+✔ Automatizar processos
+
+✔ Resolver problemas através da tecnologia
+
+✔ Aprender novas ferramentas
 
 ---
 
-## 💼 Entre em Contato
-Se você busca transformar a presença digital da sua empresa em uma máquina de aquisição orgânica, vamos conversar!
+# 🛠️ Tecnologias que utilizo
 
-* **GitHub:** [github.com/rangten](https://github.com/rangten)
+### Frontend
+
+- React
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+- shadcn/ui
+
+### Backend & Banco de Dados
+
+- Supabase
+- PostgreSQL
+
+### Ferramentas
+
+- Git
+- GitHub
+- Vercel
+- Lovable
+
+### APIs
+
+- OpenAI
+- Wavespeed
+- Runway
+- Outras APIs de IA
+
+### Outros conhecimentos
+
+- SEO Técnico
+- Programmatic SEO
+- Google Search Console
+- Core Web Vitals
+
+---
+
+# 🚀 Projetos em Produção
+
+## 📈 Projeto Vidros
+
+Plataforma comercial desenvolvida para uma vidraçaria.
+
+Foi o projeto onde mais evoluí como desenvolvedor.
+
+Durante seu desenvolvimento aprendi muito sobre:
+
+- React
+- TypeScript
+- SEO Programático
+- Supabase
+- Vercel
+- Performance
+- Google Search Console
+
+### Resultados
+
+✅ Mais de **400 páginas indexadas** no Google
+
+✅ Nota **100/100 em SEO** no Google PageSpeed
+
+✅ Plataforma utilizada diariamente por clientes
+
+🌐 https://projetovidros.com.br
+
+---
+
+## 🚀 Fast Vidro
+
+Segunda plataforma comercial desenvolvida utilizando a experiência adquirida no Projeto Vidros.
+
+O foco principal foi criar uma aplicação mais rápida, organizada e otimizada para conversão.
+
+🌐 https://fastvidro.com.br
+
+---
+
+## 🤖 DizAÍ
+
+Aplicação criada para ajudar vendedores a produzirem conteúdo utilizando Inteligência Artificial.
+
+Durante esse projeto aprendi bastante sobre integração de APIs e construção de aplicações SaaS.
+
+Integrações:
+
+- OpenAI
+- Runway
+- Wavespeed
+
+🌐 https://dizai.app.br
+
+---
+
+## 🎯 Anúncio Fácil IA
+
+Minha primeira aplicação baseada em Inteligência Artificial.
+
+A ideia nasceu para resolver um problema que eu tinha no dia a dia do e-commerce: criar anúncios com mais rapidez.
+
+Disponibilizei o sistema para amigos utilizarem e os feedbacks positivos me motivaram a continuar desenvolvendo novas soluções.
+
+🌐 https://anunciofacil.app.br
+
+---
+
+# 📚 Minha jornada
+
+🛒 Mais de 8 anos trabalhando com e-commerce
+
+↓
+
+🤖 Descobri a Inteligência Artificial
+
+↓
+
+🎨 Comecei criando imagens com IA
+
+↓
+
+🎥 Passei a gerar vídeos utilizando IA
+
+↓
+
+💻 Criei meu primeiro SaaS
+
+↓
+
+🔗 Aprendi Git e GitHub
+
+↓
+
+☁️ Aprendi Supabase
+
+↓
+
+🚀 Publiquei aplicações na Vercel
+
+↓
+
+🌎 Hoje desenvolvo aplicações utilizadas por clientes reais
+
+---
+
+# 📖 Atualmente estudando
+
+- React
+- TypeScript
+- Arquitetura Frontend
+- Boas práticas de desenvolvimento
+- Inteligência Artificial
+- UX/UI
+- Engenharia de Prompt
+
+Aprender faz parte da minha rotina.
+
+Sempre existe algo novo para descobrir.
+
+---
+
+# 🎓 Certificações
+
+- Santander Open Academy — Prompting Responsável: Maximizar a IA no seu Negócio
+- StartSe — IA para Todos
+- Fundação Bradesco — Soluções de IA no GitHub
+- Centro Paula Souza — Aperfeiçoamento Profissional com Inteligência Artificial
+- Fundação Bradesco — Git e GitHub
+- IBMEC *(em atualização)*
+
+---
+
+# 📫 Vamos conversar?
+
+Estou sempre aberto para conversar sobre:
+
+💻 Desenvolvimento Web
+
+🤖 Inteligência Artificial
+
+🚀 Produtos Digitais
+
+📈 SEO Técnico
+
+⚙️ Automações
+
+---
+
+### LinkedIn
+
+https://linkedin.com/in/rangel-furlaneto-73696330b
+
+### GitHub
+
+https://github.com/rangten
+
+---
+
+⭐ Obrigado por visitar meu perfil!
