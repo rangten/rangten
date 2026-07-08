@@ -204,10 +204,9 @@ Sempre existe algo novo para descobrir.
 
 - Santander Open Academy — Prompting Responsável: Maximizar a IA no seu Negócio
 - StartSe — IA para Todos
-- Fundação Bradesco — Soluções de IA no GitHub
 - Centro Paula Souza — Aperfeiçoamento Profissional com Inteligência Artificial
 - Fundação Bradesco — Git e GitHub
-- IBMEC *(em atualização)*
+- IBMEC - Inteligência Artificial CARREIRA EXPONENCIAL
 
 ---
 
